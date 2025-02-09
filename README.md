@@ -9,7 +9,7 @@
 - 💻 I am a **Beginner programmer**
 - 📧 If you need anything, contact me at **agungdev3@gmail.com**
 
-- <a href="https://github.com/Rez4-3yz/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=2021+2024+Finalist;PLEASE TEACH ME HOW TO CODE&center=true&width=500&height=50"></a>
+- <a href="https://github.com/Rez4-3yz/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=2021+2024+Finalist;PLEASE%20TEACH%20ME%20CODING&center=true&width=500&height=50"></a>
 
 - <p align='center'><a href="https://github.com/Rez4-3yz"><img height="200" src="https://avatars.githubusercontent.com/u/167752965?v=4"></a>&nbsp;&nbsp;</p>
 
