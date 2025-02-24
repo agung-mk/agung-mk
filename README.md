@@ -12,7 +12,9 @@
 <!--h2 without bottom border-->
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+beginner+programmer;Running+from+2023+to+2025" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+beginner+programmer;Running+from+2023+to+2025" alt="Typing SVG" style="display: block; margin: auto;" />
+  </a>
 </p>
 
 <!--Intro start-->
