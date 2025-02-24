@@ -91,9 +91,10 @@ I am always open to collaboration and knowledge sharing. Let's grow together! ðŸ
 </a>
 </p>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<hr>
+<!--profile visit count-->
+<div align="center">
+<p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=1010nishant&amp;icon=3&amp;color=6" alt=""></a></p>
+</div>
 
 <div align="center">
 
@@ -101,7 +102,6 @@ I am always open to collaboration and knowledge sharing. Let's grow together! ðŸ
 
 :page_with_curl: Currently I only study what I like.
 
-<!--profile visit count-->
-<div align="center">
-<p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=1010nishant&amp;icon=3&amp;color=6" alt=""></a></p>
-</div>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr>
