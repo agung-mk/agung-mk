@@ -12,9 +12,24 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">I am a beginner programmer</h2></summary>
+    <summary><h2 id="typing-text" style="display: inline-block; white-space: nowrap; overflow: hidden; border-right: 2px solid; width: 0;"></h2></summary>
   </ul>
 </div>
+
+<script>
+  const text = "I am a beginner programmer";
+  let i = 0;
+  function typeEffect() {
+    if (i < text.length) {
+      document.getElementById("typing-text").innerHTML += text.charAt(i);
+      i++;
+      setTimeout(typeEffect, 100);
+    } else {
+      document.getElementById("typing-text").style.borderRight = "none";
+    }
+  }
+  window.onload = typeEffect;
+</script>
 <!--Intro start-->
 <ul>
 <li>
