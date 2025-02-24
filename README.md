@@ -12,7 +12,7 @@
 <!--h2 without bottom border-->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FFFFFF&center=true&vCenter=true&width=500&lines=I+am+a+beginner+programmer" alt="Typing SVG">
+  <img src="https://https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+beginner+programmer;Running+from+2023+to+2025" alt="Typing SVG">
 </p>
 
 <!--Intro start-->
