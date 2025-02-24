@@ -18,7 +18,7 @@
 </p>
 
 <!--Intro start-->
-<h3 align="center">Introduce</h3>
+<h3 align="center">INTRODUCE</h3>
 
 - 👤 My name is **Agung Mahesa**  
 - 🎂 My current age **17 years**  
@@ -26,7 +26,7 @@
 - 💻 I am a **Beginner programmer**  
 - 📧 If you need anything, contact me at **[agungdev3@gmail.com](mailto:agungdev3@gmail.com)**  
 
-<h3 align="center">About me</h3>
+<h3 align="center">ABOUT ME</h3>
 
 I am a passionate developer focused on building scalable and innovative applications. With expertise in **HTML, CSS, JavaScript, React, Node.js, and Tailwind**, I am always eager to explore new technologies and create effective solutions.  
 
@@ -61,7 +61,7 @@ I am always open to collaboration and knowledge sharing. Let's grow together! �
 <p></p>        
 <!--- stats (end) -->
 <!--h1 without bottom border-->
-<h3 align="center">Introduce</h3>
+<h3 align="center">TECHNOLOGY AND TOOLS</h3>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
@@ -71,11 +71,7 @@ I am always open to collaboration and knowledge sharing. Let's grow together! �
 
 <!-- Contact with me -->
 <!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Contact me:</h2></summary>
-  </ul>
-</div>
+<h3 align="center">CONTACT ME</h3>
 
 <!--icons and links-->
 <p align="center">
