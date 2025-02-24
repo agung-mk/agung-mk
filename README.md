@@ -24,7 +24,7 @@
 - 💻 I am a **Beginner programmer**  
 - 📧 If you need anything, contact me at **[agungdev3@gmail.com](mailto:agungdev3@gmail.com)**  
 
-## 👋 Hello, I'm Agung!  
+## About me
 
 I am a passionate developer focused on building scalable and innovative applications. With expertise in **HTML, CSS, JavaScript, React, Node.js, and Tailwind**, I am always eager to explore new technologies and create effective solutions.  
 
