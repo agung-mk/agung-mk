@@ -93,7 +93,7 @@
   <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50">
 </a>
 <a href="https://t.me/agungdev" target="blank">
-  <img align="center" src="https://commons.wikimedia.org/wiki/File:Telegram_2019_Logo.svg" alt="telegram" height="50" width="50">
+  <img align="center" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="telegram" height="50" width="50">
 </a>
 </p>
 
@@ -109,7 +109,6 @@
 <div align="center">
 
  ![Nothing](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
 
 
 :page_with_curl: Currently I only study what I like.
