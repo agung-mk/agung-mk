@@ -11,45 +11,9 @@
 </div>
 <!--h2 without bottom border-->
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block">
-        <span id="typing"></span><span class="cursor">|</span>
-      </h2>
-    </summary>
-  </ul>
-</div>
-
-<style>
-  @keyframes typing {
-    0% { content: "I"; }
-    10% { content: "I a"; }
-    20% { content: "I am"; }
-    30% { content: "I am a"; }
-    40% { content: "I am a b"; }
-    50% { content: "I am a be"; }
-    60% { content: "I am a beg"; }
-    70% { content: "I am a begi"; }
-    80% { content: "I am a begin"; }
-    90% { content: "I am a beginner"; }
-    100% { content: "I am a beginner programmer"; }
-  }
-
-  @keyframes blink {
-    50% { opacity: 0; }
-  }
-
-  #typing::after {
-    content: "I am a beginner programmer";
-    animation: typing 3s steps(20) forwards;
-  }
-
-  .cursor {
-    animation: blink 1s infinite;
-  }
-</style>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FFFFFF&center=true&vCenter=true&width=500&lines=I+am+a+beginner+programmer" alt="Typing SVG">
+</p>
 <!--Intro start-->
 <ul>
 <li>
