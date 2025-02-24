@@ -14,31 +14,23 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FFFFFF&center=true&vCenter=true&width=500&lines=I+am+a+beginner+programmer" alt="Typing SVG">
 </p>
+
 <!--Intro start-->
-<ul>
-<li>
-<p>🔭 I’m currently working on <strong>AWS, React, React Native, Nodejs, MongoDB</strong></p>
-</li>
-<li>
-<p>🌱 I’m currently learning <strong>to put together multiple Hyper Beast Stack for Scalable Applications.</strong></p>
-</li>
-<li>
-<p>☁️ I’ve keen interest in cloud computing. So,I’m learning <strong>AWS</strong></p>
-</li>
-<li>
-<p>📝 I regularly write articles on <a href="https://1010nishant.hashnode.dev/">Hashnode</a></p>
-</li>
-<li>
-<p>💬 Ask me about <strong>AWS, react, react-native, nodejs, mongoDB</strong></p>
-</li>
-<li>
-<p>📫 Feel free to reach me out <strong><a href="mailto:nishantjangid6377@gmail.com">nishantjangid6377@gmail.com</a></strong></p>
-</li>
-<li>
-<p>🏠 Also We’ve a tech community called <a href="https://discord.com/invite/p4TWyft886">Dev Hac</a>.</p>
-</li>
-</ul>
+<h3 align="center">Let me introduce myself:</h3>
+
+- 👤 My name is **Agung Mahesa**  
+- 🎂 My current age **17 years**  
+- 🌏 I am from **Cianjur**  
+- 💻 I am a **Beginner programmer**  
+- 📧 If you need anything, contact me at **[agungdev3@gmail.com](mailto:agungdev3@gmail.com)**  
+
+## 👋 Hello, I'm Agung!  
+
+I am a passionate developer focused on building scalable and innovative applications. With expertise in **HTML, CSS, JavaScript, React, Node.js, and Tailwind**, I am always eager to explore new technologies and create effective solutions.  
+
+I am always open to collaboration and knowledge sharing. Let's grow together! 🚀  
 <!--Intro end-->
+
 <!--- stats & Trophy (start) -->
 <p align="center">
 
