@@ -102,7 +102,6 @@ I am always open to collaboration and knowledge sharing. Let's grow together! ðŸ
 
 <div align="center">
 
- ![Nothing](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
+![Nothing](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 :page_with_curl: Currently I only study what I like.
