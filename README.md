@@ -96,8 +96,6 @@ I am always open to collaboration and knowledge sharing. Let's grow together! ðŸ
 <p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=1010nishant&amp;icon=3&amp;color=6" alt=""></a></p>
 </div>
 
-<div align="center">
-
 ![Nothing](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 :page_with_curl: Currently I only study what I like.
