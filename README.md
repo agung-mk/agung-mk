@@ -61,11 +61,7 @@ I am always open to collaboration and knowledge sharing. Let's grow together! ðŸ
 <p></p>        
 <!--- stats (end) -->
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">The technology I use:</h2></summary>
-  </ul>
-</div>
+<h3 align="center">Introduce</h3>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
