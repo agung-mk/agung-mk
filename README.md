@@ -10,26 +10,46 @@
 <div align="center">
 </div>
 <!--h2 without bottom border-->
+
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 id="typing-text" style="display: inline-block; white-space: nowrap; overflow: hidden; border-right: 2px solid; width: 0;"></h2></summary>
+    <summary>
+      <h2 style="display: inline-block">
+        <span id="typing"></span><span class="cursor">|</span>
+      </h2>
+    </summary>
   </ul>
 </div>
 
-<script>
-  const text = "I am a beginner programmer";
-  let i = 0;
-  function typeEffect() {
-    if (i < text.length) {
-      document.getElementById("typing-text").innerHTML += text.charAt(i);
-      i++;
-      setTimeout(typeEffect, 100);
-    } else {
-      document.getElementById("typing-text").style.borderRight = "none";
-    }
+<style>
+  @keyframes typing {
+    0% { content: "I"; }
+    10% { content: "I a"; }
+    20% { content: "I am"; }
+    30% { content: "I am a"; }
+    40% { content: "I am a b"; }
+    50% { content: "I am a be"; }
+    60% { content: "I am a beg"; }
+    70% { content: "I am a begi"; }
+    80% { content: "I am a begin"; }
+    90% { content: "I am a beginner"; }
+    100% { content: "I am a beginner programmer"; }
   }
-  window.onload = typeEffect;
-</script>
+
+  @keyframes blink {
+    50% { opacity: 0; }
+  }
+
+  #typing::after {
+    content: "I am a beginner programmer";
+    animation: typing 3s steps(20) forwards;
+  }
+
+  .cursor {
+    animation: blink 1s infinite;
+  }
+</style>
+
 <!--Intro start-->
 <ul>
 <li>
